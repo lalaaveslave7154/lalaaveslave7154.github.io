@@ -1,0 +1,12 @@
+{
+  "name": "Typhoon Lala Birdy",
+  "short_name": "Typhoon Lala Birdy",
+  "id": "com.example.gamename",
+  "description": "This is a typhoon day with torrential rain, as a father, lala birdy has to go out and coolect branches to repair their nest. However, with the fierce wind, the journey of collecting branches is hazardous. Could lala birdy successfully return to his lovely family?",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
